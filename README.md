@@ -40,6 +40,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Uploading to GitHub continues to be a problem.
+
 ## License
 
     Copyright [2016] [Jacob Hughes]
